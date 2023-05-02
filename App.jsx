@@ -16,7 +16,7 @@ export default function App() {
       </View>
         </View>
     <TouchableOpacity style={styles.btn_front}>
-      <Text style={styles.btn_text}>Clique e conheça</Text>
+      <Text style={styles.btn_text}>Clique e saiba mais</Text>
     </TouchableOpacity>
     </View>
   );
